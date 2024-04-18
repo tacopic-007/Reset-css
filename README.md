@@ -1,1 +1,4 @@
-# Reset-css
+# Reset-css  
+Sanitize.cssがベースとなったシンプルなリセットCSSです。  
+
+  
